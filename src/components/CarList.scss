@@ -1,0 +1,14 @@
+@import '../main.scss';
+
+.coolClass {
+  font-size: 50px;
+}
+
+.jsonShower {
+  margin: 20px;
+  font-style: italic;
+  font-stretch: extra-expanded;
+  font-family: $font-stack;
+  font-weight: 600;
+  color: gainsboro;
+}
